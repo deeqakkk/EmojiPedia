@@ -1,3 +1,4 @@
 # EmojiPedia
-This website will help you understand what your friends wants to convey through there emojis.<br>
-😀😁😂🤣😃😄😅😆😉😊😋😎😍😘🥰😗😙😚🙂🤗🤩..............and many more.
+<h3>For all the 90's born folks👀.</h3>
+<h1>😀😁😂🤣😃😄😅😆😉😊😋😎😍😘🥰😗😙😚🙂🤗🤩</h1><br>
+
